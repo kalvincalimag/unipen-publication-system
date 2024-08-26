@@ -1,0 +1,51 @@
+How to Run:
+
+Admin Web Panel 
+
+1. Start the Backend API
+
+- cd backend 
+- npm run dev 
+
+2. Start the Web Admin Panel 
+- cd admin 
+- npm start
+
+3. Start the Mobile Application 
+- cd unipenapp
+- npm start to generate the QR Code
+- Download Expo from Google Play and Scan  
+- If genymotion is set up, press a 
+_________________________________
+
+When outside Home Network, change the axios ip address with the IPv4 on ethernet 2 using "ipconfig" command on CMD
+
+
+
+
+Clone Existing UniPen Directory -> 
+
+Copy Paste Files 
+
+
+    I made a MERN project for my University Organ with a mobile app for article viewing and a web admin panel for managing content. I just uploaded to github, and need to create a comprehensive readme file to help other developers know how to use it. Help me make it based on the below (which is my personal notes in txt file locally):
+
+    How to Run:
+
+    Admin Web Panel 
+
+    1. Start the Backend API
+
+    - cd backend 
+    - npm run dev 
+
+    2. Start the Web Admin Panel 
+    - cd admin 
+    - npm Start
+
+    3. Start the Mobile Application 
+    - cd unipenapp
+    - npm start to generate the QR Code
+    - Download Expo from Google Play and Scan  
+    - If genymotion is set up, press a 
+
